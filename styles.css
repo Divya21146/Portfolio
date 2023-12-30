@@ -5,7 +5,7 @@ body {
     margin: 0%;
 }
 #about {
-    background-image: url('images/bg.jpg');
+    background-image: url('bg.jpg');
     height: 100dvh;
     position: relative;
 }
